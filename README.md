@@ -4,3 +4,6 @@
 2. Walk through the flow-chart to understand risk factors, outputs and attack vectors - add them to your diagram as you go&#x20;
 3. Add each ‘risk’ to your diagram and understand the applicability of each one&#x20;
 4. Apply your defences to ensure you are mitigating all risks&#x20;
+
+{% @mailchimp/mailchimpSubscribe %}
+
