@@ -16,3 +16,4 @@
     * [In context defence](defences/keep/in-context-defence.md)
     * [Instruction aligned defence](defences/keep/instruction-aligned-defence.md)
     * [XML Encapsulation](defences/keep/xml-encapsulation.md)
+    * [Random Sequence Enclosure](defences/keep/random-sequence-enclosure.md)
