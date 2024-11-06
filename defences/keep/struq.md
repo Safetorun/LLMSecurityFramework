@@ -1,0 +1,3 @@
+# Struq
+
+Structured queries make it possible to separate prompts and data into two distinct channels. Our implemented system supports structured queries. This system consists of (1) a secure front-end that formats a prompt and user data into a unique format and (2) a specially trained LLM capable of producing high-quality outputs from these inputs. The LLM undergoes training using a novel fine-tuning strategy. We convert a base (non-instruction tuned) LLM into a structured instruction-tuned model that exclusively follows instructions in the prompt portion of a query. To achieve this, we augment standard instruction tuning datasets with examples that include instructions in the data portion of the query and fine-tune the model to disregard these instructions.
